@@ -74,6 +74,10 @@
   <img src="https://github.com/Malek-Alshakhdha/Malek-Alshakhdha/blob/main/%D8%B4%D9%87%D8%A7%D8%AF%D8%A9%20%D8%A5%D8%AF%D8%A7%D8%B1%D8%A9%20%D8%B3%D9%84%D8%A7%D9%85%D8%A9%20%D8%A7%D9%84%D8%BA%D8%B0%D8%A7%D8%A1%20.jpg" alt="شهادة إدارة سلامة الغذاء" width="400">
 
 ---
+- ✍️ **مهارة الكتابة باللغة الإنجليزية:**  
+  <img src="https://github.com/Malek-Alshakhdha/Malek-Alshakhdha/blob/main/%D9%85%D9%87%D8%A7%D8%B1%D8%A9%20%D8%A7%D9%84%D9%83%D8%AA%D8%A7%D8%A8%D8%A9%20%D9%84%D9%84%D8%BA%D8%A9%20%D8%A7%D9%84%D8%A7%D9%86%D8%AC%D9%84%D9%8A%D8%B2%D9%8A%D9%87%20(E).jpg" alt="شهادة مهارة الكتابة باللغة الإنجليزية" width="400">
+
+---
 
 <p align="center" style="color:#999; font-size:13px; margin-top:25px;">
 © 2025 أخصائي أحياء دقيقة - جميع الحقوق محفوظة
