@@ -3,7 +3,7 @@
 <!-- 🧬 الصورة الشخصية -->
 <img src="https://github.com/Malek-Alshakhdha/Malek-Alshakhdha/blob/main/profil%20.jpg" alt="صورة أخصائي الأحياء الدقيقة" width="180" style="border-radius:50%; border:3px solid #2b7a78;">
 
-<h2 style="color:#17252A; margin-top:10px;">د/ مالك الشخظه</h2>
+<h2 style="color:#17252A; margin-top:10px;">مالك الشخظه</h2>
 
 <p align="center" style="max-width:650px; color:#2b2b2b; font-size:16px;">
 أخصائي أحياء دقيقة بخبرة في المختبرات البيولوجية والكيميائية، متخصص في مراقبة الجودة والإشراف على خطوط الإنتاج.  
